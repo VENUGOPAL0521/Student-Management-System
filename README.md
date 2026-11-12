@@ -14,3 +14,5 @@ A simple web application to manage student names.
 - Git Commit
 - Git Push
 - Git Pull
+## Developer
+Created as a student Git and GitHub project.
